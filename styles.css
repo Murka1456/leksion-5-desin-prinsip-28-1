@@ -1,10 +1,10 @@
 .spacing {
-  height: 100px;
-  width: 100px;
-  border: 5px black solid; 
+  height: 200px;
+  width: 150px;
+  border: 5px blanchedalmond solid; 
 
-  margin: 10px 15px 20px 25px;
-  padding: 10px 15px 20px 25px;
+  margin: 2px;
+  padding: 2px;
 }
 
 .flexRow {
@@ -13,18 +13,18 @@ display: flex;
 .longer{ 
   background-color: blueviolet;
   color: crimson;
-  width:70%;
-  height: 100px;
-  border: 5px black solid; 
+  width: 300px;;
+  height: 200px;
+  border: 5px lightseagreen solid; 
 
-  margin: 10px 15px 20px 25px;
-  padding: 10px 15px 20px 25px;
+  margin: 2px;
+  padding: 2px;
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
 }
 
 .img {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 150px;
 }
