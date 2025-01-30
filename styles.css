@@ -15,14 +15,14 @@ display: flex;
   background-color: blueviolet;
   color: crimson;
   width: 600px;
-  height: 300px;s
+  height: 300px;
   border: 2px lightseagreen solid; 
   justify-content:center;
   align-items: center;
 
   margin: 2px;
   padding: 2px;
-  font: size 80px;
+  font-size: 80px;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
   
