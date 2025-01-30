@@ -14,15 +14,15 @@ display: flex;
 .longer{ 
   background-color: blueviolet;
   color: crimson;
-  width: 400px;;
-  height: 300px;
+  width: 600px;
+  height: 400px;
   border: 2px lightseagreen solid; 
   justify-content:center;
   align-items: center;
 
   margin: 2px;
   padding: 2px;
-  font-size:x-large ;
+  font: size 80px;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
 }
