@@ -16,7 +16,7 @@ display: flex;
   color: crimson;
   width: 400px;;
   height: 300px;
-  border: 2px; lightseagreen solid; 
+  border: 2px lightseagreen solid; 
   justify-content:center;
   align-items: center;
 
