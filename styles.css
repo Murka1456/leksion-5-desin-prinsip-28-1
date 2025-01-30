@@ -16,6 +16,8 @@ display: flex;
   width: 400px;;
   height: 300px;
   border: 2px lightseagreen solid; 
+  justify-content:center;
+  align-items: center;
 
   margin: 2px;
   padding: 2px;
