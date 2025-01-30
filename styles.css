@@ -15,7 +15,7 @@ display: flex;
   background-color: blueviolet;
   color: crimson;
   width: 600px;
-  height: 400px;
+  height: 300px;s
   border: 2px lightseagreen solid; 
   justify-content:center;
   align-items: center;
@@ -25,6 +25,7 @@ display: flex;
   font: size 80px;
   font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
+  
 }
 
 .img {
