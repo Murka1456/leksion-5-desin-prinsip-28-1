@@ -6,7 +6,6 @@
   align-items: center;
   margin: 2px;
   padding: 2px;
-  font-size: smaller;
 }
 
 .flexRow {
@@ -18,8 +17,9 @@ display: flex;
   width: 600px;
   height: 200px;
   border: 2px lightseagreen solid; 
-  text-justify: unset;
+  justify-content:  center;
   align-items: center;
+  display: flex;
 
   margin: 2px;
   padding: 30px;
@@ -39,4 +39,15 @@ main {
   justify-content:center;
   align-items: center;
 }
+.nav{
+  height:30px;
+  width: 663px;
+  background-color:black;
+  color:white;
+  display:block;
+  text-align: leftss;
+ }
+.h2{font-size: small;
+  color: black;
 
+}
